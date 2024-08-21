@@ -1,0 +1,883 @@
+Temperature (Celsius),Species,strain_ID,Week,Plate,Growth
+15,Suillus lakei,Suilla ,1,1,0.499
+15,Suillus lakei,Suilla ,1,2,0.712
+15,Suillus lakei,Suilla ,1,3,0.724
+15,Suillus lakei,Suilla ,1,4,0.673
+15,Suillus lakei,Suilla ,1,5,0.717
+15,Suillus lakei,Suilla ,1,6,0.577
+15,Suillus lakei,Suilla ,3,1,0.499
+15,Suillus lakei,Suilla ,3,2,0.712
+15,Suillus lakei,Suilla ,3,3,0.724
+15,Suillus lakei,Suilla ,3,4,0.673
+15,Suillus lakei,Suilla ,3,5,0.717
+15,Suillus lakei,Suilla ,3,6,0.577
+15,Suillus lakei,Suilla ,4,1,0.499
+15,Suillus lakei,Suilla ,4,2,0.712
+15,Suillus lakei,Suilla ,4,3,0.724
+15,Suillus lakei,Suilla ,4,4,0.673
+15,Suillus lakei,Suilla ,4,5,0.717
+15,Suillus lakei,Suilla ,4,6,0.577
+15,Suillus lakei,Suilla ,5,1,0.499
+15,Suillus lakei,Suilla ,5,2,0.712
+15,Suillus lakei,Suilla ,5,3,0.724
+15,Suillus lakei,Suilla ,5,4,0.673
+15,Suillus lakei,Suilla ,5,5,0.717
+15,Suillus lakei,Suilla ,5,6,0.577
+15,Suillus lakei,Suilla ,6,1,2.892
+15,Suillus lakei,Suilla ,6,2,2.389
+15,Suillus lakei,Suilla ,6,3,1.480
+15,Suillus lakei,Suilla ,6,4,1.866
+15,Suillus lakei,Suilla ,6,5,0.717
+15,Suillus lakei,Suilla ,6,6,1.723
+15,Suillus lakei,SL08,1,1,0.687
+15,Suillus lakei,SL08,1,2,0.748
+15,Suillus lakei,SL08,1,3,0.770
+15,Suillus lakei,SL08,1,4,0.723
+15,Suillus lakei,SL08,1,5,0.669
+15,Suillus lakei,SL08,1,6,0.693
+15,Suillus lakei,SL08,3,1,1.990
+15,Suillus lakei,SL08,3,2,2.495
+15,Suillus lakei,SL08,3,3,2.655
+15,Suillus lakei,SL08,3,4,2.352
+15,Suillus lakei,SL08,3,5,2.191
+15,Suillus lakei,SL08,3,6,2.448
+15,Suillus lakei,SL08,4,1,3.614
+15,Suillus lakei,SL08,4,2,4.293
+15,Suillus lakei,SL08,4,3,4.821
+15,Suillus lakei,SL08,4,4,3.970
+15,Suillus lakei,SL08,4,5,3.961
+15,Suillus lakei,SL08,4,6,4.191
+15,Suillus lakei,SL08,5,1,5.956
+15,Suillus lakei,SL08,5,2,6.780
+15,Suillus lakei,SL08,5,3,7.932
+15,Suillus lakei,SL08,5,4,6.564
+15,Suillus lakei,SL08,5,5,6.880
+15,Suillus lakei,SL08,5,6,7.318
+15,Suillus lakei,SL10,1,1,0.764
+15,Suillus lakei,SL10,1,2,0.770
+15,Suillus lakei,SL10,1,3,0.713
+15,Suillus lakei,SL10,1,4,0.761
+15,Suillus lakei,SL10,1,5,0.792
+15,Suillus lakei,SL10,1,6,0.845
+15,Suillus lakei,SL10,3,1,2.402
+15,Suillus lakei,SL10,3,2,2.491
+15,Suillus lakei,SL10,3,3,3.278
+15,Suillus lakei,SL10,3,4,2.464
+15,Suillus lakei,SL10,3,5,2.567
+15,Suillus lakei,SL10,3,6,2.448
+15,Suillus lakei,SL10,4,1,4.204
+15,Suillus lakei,SL10,4,2,4.431
+15,Suillus lakei,SL10,4,3,5.423
+15,Suillus lakei,SL10,4,4,4.458
+15,Suillus lakei,SL10,4,5,4.984
+15,Suillus lakei,SL10,4,6,4.195
+15,Suillus lakei,SL10,5,1,6.636
+15,Suillus lakei,SL10,5,2,7.674
+15,Suillus lakei,SL10,5,3,7.716
+15,Suillus lakei,SL10,5,4,7.475
+15,Suillus lakei,SL10,5,5,7.908
+15,Suillus lakei,SL10,5,6,6.870
+15,Suillus lakei,SL04 ,1,1,0.732
+15,Suillus lakei,SL04 ,1,2,0.762
+15,Suillus lakei,SL04 ,1,3,0.614
+15,Suillus lakei,SL04 ,1,4,0.714
+15,Suillus lakei,SL04 ,1,5,0.769
+15,Suillus lakei,SL04 ,1,6,0.729
+15,Suillus lakei,SL04 ,3,1,2.269
+15,Suillus lakei,SL04 ,3,2,2.138
+15,Suillus lakei,SL04 ,3,3,1.771
+15,Suillus lakei,SL04 ,3,4,1.987
+15,Suillus lakei,SL04 ,3,5,2.391
+15,Suillus lakei,SL04 ,3,6,1.874
+15,Suillus lakei,SL04 ,4,1,3.638
+15,Suillus lakei,SL04 ,4,2,3.445
+15,Suillus lakei,SL04 ,4,3,2.994
+15,Suillus lakei,SL04 ,4,4,3.207
+15,Suillus lakei,SL04 ,4,5,3.581
+15,Suillus lakei,SL04 ,4,6,2.950
+15,Suillus lakei,SL04 ,5,1,5.558
+15,Suillus lakei,SL04 ,5,2,6.759
+15,Suillus lakei,SL04 ,5,3,5.215
+15,Suillus lakei,SL04 ,5,4,5.737
+15,Suillus lakei,SL04 ,5,5,6.023
+15,Suillus lakei,SL04 ,5,6,5.013
+15,Rhizopogon Evadens,RZ04,1,1,0.672
+15,Rhizopogon Evadens,RZ04,1,2,0.785
+15,Rhizopogon Evadens,RZ04,1,3,0.677
+15,Rhizopogon Evadens,RZ04,1,4,0.659
+15,Rhizopogon Evadens,RZ04,1,5,0.708
+15,Rhizopogon Evadens,RZ04,1,6,0.631
+15,Rhizopogon Evadens,RZ04,3,1,1.474
+15,Rhizopogon Evadens,RZ04,3,2,1.649
+15,Rhizopogon Evadens,RZ04,3,3,1.303
+15,Rhizopogon Evadens,RZ04,3,4,1.583
+15,Rhizopogon Evadens,RZ04,3,5,1.984
+15,Rhizopogon Evadens,RZ04,3,6,1.638
+15,Rhizopogon Evadens,RZ04,4,1,2.245
+15,Rhizopogon Evadens,RZ04,4,2,2.729
+15,Rhizopogon Evadens,RZ04,4,3,1.989
+15,Rhizopogon Evadens,RZ04,4,4,2.773
+15,Rhizopogon Evadens,RZ04,4,5,3.410
+15,Rhizopogon Evadens,RZ04,4,6,2.589
+15,Rhizopogon Evadens,RZ04,5,1,3.858
+15,Rhizopogon Evadens,RZ04,5,2,4.527
+15,Rhizopogon Evadens,RZ04,5,3,3.623
+15,Rhizopogon Evadens,RZ04,5,4,5.391
+15,Rhizopogon Evadens,RZ04,5,5,5.976
+15,Rhizopogon Evadens,RZ04,5,6,4.453
+15,Rhizopogon Evadens,RZ18,1,1,0.816
+15,Rhizopogon Evadens,RZ18,1,2,0.721
+15,Rhizopogon Evadens,RZ18,1,3,0.802
+15,Rhizopogon Evadens,RZ18,1,4,0.707
+15,Rhizopogon Evadens,RZ18,1,5,0.745
+15,Rhizopogon Evadens,RZ18,1,6,0.766
+15,Rhizopogon Evadens,RZ18,3,1,2.746
+15,Rhizopogon Evadens,RZ18,3,2,2.540
+15,Rhizopogon Evadens,RZ18,3,3,2.614
+15,Rhizopogon Evadens,RZ18,3,4,2.588
+15,Rhizopogon Evadens,RZ18,3,5,2.864
+15,Rhizopogon Evadens,RZ18,3,6,2.159
+15,Rhizopogon Evadens,RZ18,4,1,3.798
+15,Rhizopogon Evadens,RZ18,4,2,3.729
+15,Rhizopogon Evadens,RZ18,4,3,4.053
+15,Rhizopogon Evadens,RZ18,4,4,3.811
+15,Rhizopogon Evadens,RZ18,4,5,3.986
+15,Rhizopogon Evadens,RZ18,4,6,3.064
+15,Rhizopogon Evadens,RZ18,5,1,5.021
+15,Rhizopogon Evadens,RZ18,5,2,5.110
+15,Rhizopogon Evadens,RZ18,5,3,5.471
+15,Rhizopogon Evadens,RZ18,5,4,5.628
+15,Rhizopogon Evadens,RZ18,5,5,5.231
+15,Rhizopogon Evadens,RZ18,5,6,4.197
+15,Rhizopogon Evadens,RZ13,1,1,0.737
+15,Rhizopogon Evadens,RZ13,1,2,0.602
+15,Rhizopogon Evadens,RZ13,1,3,0.661
+15,Rhizopogon Evadens,RZ13,1,4,0.692
+15,Rhizopogon Evadens,RZ13,1,5,0.693
+15,Rhizopogon Evadens,RZ13,1,6,0.671
+15,Rhizopogon Evadens,RZ13,3,1,3.794
+15,Rhizopogon Evadens,RZ13,3,2,0.912
+15,Rhizopogon Evadens,RZ13,3,3,0.661
+15,Rhizopogon Evadens,RZ13,3,4,1.064
+15,Rhizopogon Evadens,RZ13,3,5,0.693
+15,Rhizopogon Evadens,RZ13,3,6,0.671
+15,Rhizopogon Evadens,RZ13,4,1,5.753
+15,Rhizopogon Evadens,RZ13,4,2,1.492
+15,Rhizopogon Evadens,RZ13,4,3,0.827
+15,Rhizopogon Evadens,RZ13,4,4,1.866
+15,Rhizopogon Evadens,RZ13,4,5,1.325
+15,Rhizopogon Evadens,RZ13,4,6,0.671
+15,Rhizopogon Evadens,RZ13,5,1,7.275
+15,Rhizopogon Evadens,RZ13,5,2,3.324
+15,Rhizopogon Evadens,RZ13,5,3,2.020
+15,Rhizopogon Evadens,RZ13,5,4,3.763
+15,Rhizopogon Evadens,RZ13,5,5,2.917
+15,Rhizopogon Evadens,RZ13,5,6,1.573
+15,Rhizopogon idahoensis,RP05,1,1,0.597
+15,Rhizopogon idahoensis,RP05,1,2,0.730
+15,Rhizopogon idahoensis,RP05,1,3,0.715
+15,Rhizopogon idahoensis,RP05,1,4,0.619
+15,Rhizopogon idahoensis,RP05,1,5,0.690
+15,Rhizopogon idahoensis,RP05,1,6,0.668
+15,Rhizopogon idahoensis,RP05,3,1,2.753
+15,Rhizopogon idahoensis,RP05,3,2,2.753
+15,Rhizopogon idahoensis,RP05,3,3,2.596
+15,Rhizopogon idahoensis,RP05,3,4,2.295
+15,Rhizopogon idahoensis,RP05,3,5,2.347
+15,Rhizopogon idahoensis,RP05,3,6,2.471
+15,Rhizopogon idahoensis,RP05,4,1,4.006
+15,Rhizopogon idahoensis,RP05,4,2,3.764
+15,Rhizopogon idahoensis,RP05,4,3,3.612
+15,Rhizopogon idahoensis,RP05,4,4,3.380
+15,Rhizopogon idahoensis,RP05,4,5,3.493
+15,Rhizopogon idahoensis,RP05,4,6,3.752
+15,Rhizopogon idahoensis,RP05,5,1,6.609
+15,Rhizopogon idahoensis,RP05,5,2,6.032
+15,Rhizopogon idahoensis,RP05,5,3,5.853
+15,Rhizopogon idahoensis,RP05,5,4,5.377
+15,Rhizopogon idahoensis,RP05,5,5,5.055
+15,Rhizopogon idahoensis,RP05,5,6,5.528
+15,Rhizopogon idahoensis,RP06,1,1,0.667
+15,Rhizopogon idahoensis,RP06,1,2,0.703
+15,Rhizopogon idahoensis,RP06,1,3,0.821
+15,Rhizopogon idahoensis,RP06,1,4,0.673
+15,Rhizopogon idahoensis,RP06,1,5,0.722
+15,Rhizopogon idahoensis,RP06,1,6,0.714
+15,Rhizopogon idahoensis,RP06,3,1,3.274
+15,Rhizopogon idahoensis,RP06,3,2,2.379
+15,Rhizopogon idahoensis,RP06,3,3,3.025
+15,Rhizopogon idahoensis,RP06,3,4,3.147
+15,Rhizopogon idahoensis,RP06,3,5,3.178
+15,Rhizopogon idahoensis,RP06,3,6,2.470
+15,Rhizopogon idahoensis,RP06,4,1,4.539
+15,Rhizopogon idahoensis,RP06,4,2,3.680
+15,Rhizopogon idahoensis,RP06,4,3,3.932
+15,Rhizopogon idahoensis,RP06,4,4,4.248
+15,Rhizopogon idahoensis,RP06,4,5,4.337
+15,Rhizopogon idahoensis,RP06,4,6,3.789
+15,Rhizopogon idahoensis,RP06,5,1,7.198
+15,Rhizopogon idahoensis,RP06,5,2,6.573
+15,Rhizopogon idahoensis,RP06,5,3,6.479
+15,Rhizopogon idahoensis,RP06,5,4,7.091
+15,Rhizopogon idahoensis,RP06,5,5,5.342
+15,Rhizopogon idahoensis,RP06,5,6,5.750
+15,Rhizopogon idahoensis,RP07,1,1,0.633
+15,Rhizopogon idahoensis,RP07,1,2,0.694
+15,Rhizopogon idahoensis,RP07,1,3,0.751
+15,Rhizopogon idahoensis,RP07,1,4,0.762
+15,Rhizopogon idahoensis,RP07,1,5,0.666
+15,Rhizopogon idahoensis,RP07,1,6,0.605
+15,Rhizopogon idahoensis,RP07,3,1,2.881
+15,Rhizopogon idahoensis,RP07,3,2,3.063
+15,Rhizopogon idahoensis,RP07,3,3,3.064
+15,Rhizopogon idahoensis,RP07,3,4,2.892
+15,Rhizopogon idahoensis,RP07,3,5,2.996
+15,Rhizopogon idahoensis,RP07,3,6,3.381
+15,Rhizopogon idahoensis,RP07,4,1,4.224
+15,Rhizopogon idahoensis,RP07,4,2,4.380
+15,Rhizopogon idahoensis,RP07,4,3,4.384
+15,Rhizopogon idahoensis,RP07,4,4,4.212
+15,Rhizopogon idahoensis,RP07,4,5,4.190
+15,Rhizopogon idahoensis,RP07,4,6,4.614
+15,Rhizopogon idahoensis,RP07,5,1,6.531
+15,Rhizopogon idahoensis,RP07,5,2,6.150
+15,Rhizopogon idahoensis,RP07,5,3,6.660
+15,Rhizopogon idahoensis,RP07,5,4,5.796
+15,Rhizopogon idahoensis,RP07,5,5,5.744
+15,Rhizopogon idahoensis,RP07,5,6,6.234
+15,Cenococcum geophilum,CengeV1,1,1,0.68
+15,Cenococcum geophilum,CengeV1,1,2,0.517
+15,Cenococcum geophilum,CengeV1,1,3,0.583
+15,Cenococcum geophilum,CengeV1,1,4,0.682
+15,Cenococcum geophilum,CengeV1,1,5,0.637
+15,Cenococcum geophilum,CengeV1,1,6,0.62
+15,Cenococcum geophilum,CengeV1,3,1,1.011
+15,Cenococcum geophilum,CengeV1,3,2,0.928
+15,Cenococcum geophilum,CengeV1,3,3,1.109
+15,Cenococcum geophilum,CengeV1,3,4,1.248
+15,Cenococcum geophilum,CengeV1,3,5,1.431
+15,Cenococcum geophilum,CengeV1,3,6,1.232
+15,Cenococcum geophilum,CengeV1,4,1,1.423
+15,Cenococcum geophilum,CengeV1,4,2,1.46
+15,Cenococcum geophilum,CengeV1,4,3,1.624
+15,Cenococcum geophilum,CengeV1,4,4,2.115
+15,Cenococcum geophilum,CengeV1,4,5,2.048
+15,Cenococcum geophilum,CengeV1,4,6,1.787
+15,Cenococcum geophilum,CengeV1,5,1,2.885
+15,Cenococcum geophilum,CengeV1,5,2,3.258
+15,Cenococcum geophilum,CengeV1,5,3,3.08
+15,Cenococcum geophilum,CengeV1,5,4,4.248
+15,Cenococcum geophilum,CengeV1,5,5,3.88
+15,Cenococcum geophilum,CengeV1,5,6,3.466
+15,Laccaria bicolor,LacbV1,1,1,1.311
+15,Laccaria bicolor,LacbV1,1,2,0.889
+15,Laccaria bicolor,LacbV1,1,3,1.224
+15,Laccaria bicolor,LacbV1,1,4,0.999
+15,Laccaria bicolor,LacbV1,1,5,1.156
+15,Laccaria bicolor,LacbV1,1,6,1.234
+15,Laccaria bicolor,LacbV1,3,1,7.561
+15,Laccaria bicolor,LacbV1,3,2,8.314
+15,Laccaria bicolor,LacbV1,3,3,8.95
+15,Laccaria bicolor,LacbV1,3,4,8.24
+15,Laccaria bicolor,LacbV1,3,5,8.451
+15,Laccaria bicolor,LacbV1,3,6,8.448
+15,Laccaria bicolor,LacbV1,4,1,10.133
+15,Laccaria bicolor,LacbV1,4,2,10.456
+15,Laccaria bicolor,LacbV1,4,3,11.323
+15,Laccaria bicolor,LacbV1,4,4,11.853
+15,Laccaria bicolor,LacbV1,4,5,11.395
+15,Laccaria bicolor,LacbV1,4,6,12.07
+15,Laccaria bicolor,LacbV1,5,1,13.587
+15,Laccaria bicolor,LacbV1,5,2,14.953
+15,Laccaria bicolor,LacbV1,5,3,14.774
+15,Laccaria bicolor,LacbV1,5,4,16.729
+15,Laccaria bicolor,LacbV1,5,5,14.609
+15,Laccaria bicolor,LacbV1,5,6,14.795
+20,Suillus lakei,Suilla ,1,1,0.682
+20,Suillus lakei,Suilla ,1,2,0.625
+20,Suillus lakei,Suilla ,1,3,0.608
+20,Suillus lakei,Suilla ,1,4,0.646
+20,Suillus lakei,Suilla ,1,5,0.697
+20,Suillus lakei,Suilla ,1,6,0.585
+20,Suillus lakei,Suilla ,3,1,0.682
+20,Suillus lakei,Suilla ,3,2,0.625
+20,Suillus lakei,Suilla ,3,3,0.608
+20,Suillus lakei,Suilla ,3,4,0.646
+20,Suillus lakei,Suilla ,3,5,0.697
+20,Suillus lakei,Suilla ,3,6,0.585
+20,Suillus lakei,Suilla ,4,1,0.682
+20,Suillus lakei,Suilla ,4,2,0.625
+20,Suillus lakei,Suilla ,4,3,0.608
+20,Suillus lakei,Suilla ,4,4,0.646
+20,Suillus lakei,Suilla ,4,5,0.697
+20,Suillus lakei,Suilla ,4,6,0.585
+20,Suillus lakei,Suilla ,5,1,0.682
+20,Suillus lakei,Suilla ,5,2,0.625
+20,Suillus lakei,Suilla ,5,3,0.608
+20,Suillus lakei,Suilla ,5,4,0.646
+20,Suillus lakei,Suilla ,5,5,0.697
+20,Suillus lakei,Suilla ,5,6,0.585
+20,Suillus lakei,Suilla ,6,1,2.236
+20,Suillus lakei,Suilla ,6,2,3.874
+20,Suillus lakei,Suilla ,6,3,1.454
+20,Suillus lakei,Suilla ,6,4,1.642
+20,Suillus lakei,Suilla ,6,5,3.37
+20,Suillus lakei,Suilla ,6,6,1.278
+20,Suillus lakei,SL08,1,1,0.762
+20,Suillus lakei,SL08,1,2,0.748
+20,Suillus lakei,SL08,1,3,0.801
+20,Suillus lakei,SL08,1,4,0.755
+20,Suillus lakei,SL08,1,5,0.789
+20,Suillus lakei,SL08,1,6,0.827
+20,Suillus lakei,SL08,3,1,2.679
+20,Suillus lakei,SL08,3,2,3.806
+20,Suillus lakei,SL08,3,3,3.563
+20,Suillus lakei,SL08,3,4,3.748
+20,Suillus lakei,SL08,3,5,3.27
+20,Suillus lakei,SL08,3,6,4.25
+20,Suillus lakei,SL08,4,1,4.999
+20,Suillus lakei,SL08,4,2,9.666
+20,Suillus lakei,SL08,4,3,7.758
+20,Suillus lakei,SL08,4,4,8.534
+20,Suillus lakei,SL08,4,5,7.905
+20,Suillus lakei,SL08,4,6,9.54
+20,Suillus lakei,SL08,5,1,8.566
+20,Suillus lakei,SL08,5,2,16.642
+20,Suillus lakei,SL08,5,3,11.403
+20,Suillus lakei,SL08,5,4,13.105
+20,Suillus lakei,SL08,5,5,10.894
+20,Suillus lakei,SL08,5,6,14.853
+20,Suillus lakei,SL10,1,1,0.773
+20,Suillus lakei,SL10,1,2,0.852
+20,Suillus lakei,SL10,1,3,0.755
+20,Suillus lakei,SL10,1,4,0.699
+20,Suillus lakei,SL10,1,5,0.713
+20,Suillus lakei,SL10,1,6,0.847
+20,Suillus lakei,SL10,3,1,3.393
+20,Suillus lakei,SL10,3,2,3.855
+20,Suillus lakei,SL10,3,3,2.999
+20,Suillus lakei,SL10,3,4,2.867
+20,Suillus lakei,SL10,3,5,4.478
+20,Suillus lakei,SL10,3,6,3.27
+20,Suillus lakei,SL10,4,1,8.257
+20,Suillus lakei,SL10,4,2,8.592
+20,Suillus lakei,SL10,4,3,7.459
+20,Suillus lakei,SL10,4,4,8.359
+20,Suillus lakei,SL10,4,5,9.141
+20,Suillus lakei,SL10,4,6,9.059
+20,Suillus lakei,SL10,5,1,12.364
+20,Suillus lakei,SL10,5,2,13.347
+20,Suillus lakei,SL10,5,3,10.891
+20,Suillus lakei,SL10,5,4,13.084
+20,Suillus lakei,SL10,5,5,12.774
+20,Suillus lakei,SL10,5,6,13.392
+20,Suillus lakei,SL04 ,1,1,0.692
+20,Suillus lakei,SL04 ,1,2,0.699
+20,Suillus lakei,SL04 ,1,3,0.669
+20,Suillus lakei,SL04 ,1,4,0.667
+20,Suillus lakei,SL04 ,1,5,0.854
+20,Suillus lakei,SL04 ,1,6,0.713
+20,Suillus lakei,SL04 ,3,1,4.348
+20,Suillus lakei,SL04 ,3,2,4.425
+20,Suillus lakei,SL04 ,3,3,4.47
+20,Suillus lakei,SL04 ,3,4,3.859
+20,Suillus lakei,SL04 ,3,5,5.68
+20,Suillus lakei,SL04 ,3,6,4.282
+20,Suillus lakei,SL04 ,4,1,7.056
+20,Suillus lakei,SL04 ,4,2,7.753
+20,Suillus lakei,SL04 ,4,3,7.61
+20,Suillus lakei,SL04 ,4,4,7.085
+20,Suillus lakei,SL04 ,4,5,7.923
+20,Suillus lakei,SL04 ,4,6,7.362
+20,Suillus lakei,SL04 ,5,1,8.449
+20,Suillus lakei,SL04 ,5,2,10.426
+20,Suillus lakei,SL04 ,5,3,9.571
+20,Suillus lakei,SL04 ,5,4,9.692
+20,Suillus lakei,SL04 ,5,5,11.111
+20,Suillus lakei,SL04 ,5,6,10.352
+20,Rhizopogon Evadens,RZ04,1,1,0.774
+20,Rhizopogon Evadens,RZ04,1,2,0.868
+20,Rhizopogon Evadens,RZ04,1,3,0.92
+20,Rhizopogon Evadens,RZ04,1,4,0.797
+20,Rhizopogon Evadens,RZ04,1,5,0.824
+20,Rhizopogon Evadens,RZ04,1,6,0.652
+20,Rhizopogon Evadens,RZ04,3,1,4.256
+20,Rhizopogon Evadens,RZ04,3,2,3.342
+20,Rhizopogon Evadens,RZ04,3,3,4.053
+20,Rhizopogon Evadens,RZ04,3,4,3.266
+20,Rhizopogon Evadens,RZ04,3,5,3.309
+20,Rhizopogon Evadens,RZ04,3,6,2.751
+20,Rhizopogon Evadens,RZ04,4,1,5.838
+20,Rhizopogon Evadens,RZ04,4,2,4.4
+20,Rhizopogon Evadens,RZ04,4,3,5.54
+20,Rhizopogon Evadens,RZ04,4,4,4.522
+20,Rhizopogon Evadens,RZ04,4,5,4.146
+20,Rhizopogon Evadens,RZ04,4,6,4.04
+20,Rhizopogon Evadens,RZ04,5,1,7.006
+20,Rhizopogon Evadens,RZ04,5,2,5.656
+20,Rhizopogon Evadens,RZ04,5,3,6.915
+20,Rhizopogon Evadens,RZ04,5,4,5.541
+20,Rhizopogon Evadens,RZ04,5,5,5.358
+20,Rhizopogon Evadens,RZ04,5,6,5.496
+20,Rhizopogon Evadens,RZ18,1,1,1.099
+20,Rhizopogon Evadens,RZ18,1,2,1.217
+20,Rhizopogon Evadens,RZ18,1,3,1.114
+20,Rhizopogon Evadens,RZ18,1,4,1.059
+20,Rhizopogon Evadens,RZ18,1,5,1.193
+20,Rhizopogon Evadens,RZ18,1,6,1.205
+20,Rhizopogon Evadens,RZ18,3,1,4.332
+20,Rhizopogon Evadens,RZ18,3,2,4.855
+20,Rhizopogon Evadens,RZ18,3,3,4.762
+20,Rhizopogon Evadens,RZ18,3,4,4.842
+20,Rhizopogon Evadens,RZ18,3,5,4.929
+20,Rhizopogon Evadens,RZ18,3,6,4.756
+20,Rhizopogon Evadens,RZ18,4,1,5.615
+20,Rhizopogon Evadens,RZ18,4,2,6.117
+20,Rhizopogon Evadens,RZ18,4,3,6.6226
+20,Rhizopogon Evadens,RZ18,4,4,6.277
+20,Rhizopogon Evadens,RZ18,4,5,5.830
+20,Rhizopogon Evadens,RZ18,4,6,5.329
+20,Rhizopogon Evadens,RZ18,5,1,6.646
+20,Rhizopogon Evadens,RZ18,5,2,6.917
+20,Rhizopogon Evadens,RZ18,5,3,6.960
+20,Rhizopogon Evadens,RZ18,5,4,7.199
+20,Rhizopogon Evadens,RZ18,5,5,6.710
+20,Rhizopogon Evadens,RZ18,5,6,5.382
+20,Rhizopogon Evadens,RZ13,1,1,0.629
+20,Rhizopogon Evadens,RZ13,1,2,0.775
+20,Rhizopogon Evadens,RZ13,1,3,0.649
+20,Rhizopogon Evadens,RZ13,1,4,0.627
+20,Rhizopogon Evadens,RZ13,1,5,0.596
+20,Rhizopogon Evadens,RZ13,1,6,0.764
+20,Rhizopogon Evadens,RZ13,3,1,0.629
+20,Rhizopogon Evadens,RZ13,3,2,2.342
+20,Rhizopogon Evadens,RZ13,3,3,2.864
+20,Rhizopogon Evadens,RZ13,3,4,2.308
+20,Rhizopogon Evadens,RZ13,3,5,2.451
+20,Rhizopogon Evadens,RZ13,3,6,1.866
+20,Rhizopogon Evadens,RZ13,4,1,0.981
+20,Rhizopogon Evadens,RZ13,4,2,3.659
+20,Rhizopogon Evadens,RZ13,4,3,4.078
+20,Rhizopogon Evadens,RZ13,4,4,2.581
+20,Rhizopogon Evadens,RZ13,4,5,4.621
+20,Rhizopogon Evadens,RZ13,4,6,3.431
+20,Rhizopogon Evadens,RZ13,5,1,2.774
+20,Rhizopogon Evadens,RZ13,5,2,5.415
+20,Rhizopogon Evadens,RZ13,5,3,5.875
+20,Rhizopogon Evadens,RZ13,5,4,6.409
+20,Rhizopogon Evadens,RZ13,5,5,6.91
+20,Rhizopogon Evadens,RZ13,5,6,5.915
+20,Rhizopogon idahoensis,RP05,1,1,0.944
+20,Rhizopogon idahoensis,RP05,1,2,1.045
+20,Rhizopogon idahoensis,RP05,1,3,0.63
+20,Rhizopogon idahoensis,RP05,1,4,1.08
+20,Rhizopogon idahoensis,RP05,1,5,0.815
+20,Rhizopogon idahoensis,RP05,1,6,0.82
+20,Rhizopogon idahoensis,RP05,3,1,5.454
+20,Rhizopogon idahoensis,RP05,3,2,7.468
+20,Rhizopogon idahoensis,RP05,3,3,4.93
+20,Rhizopogon idahoensis,RP05,3,4,6.512
+20,Rhizopogon idahoensis,RP05,3,5,5.374
+20,Rhizopogon idahoensis,RP05,3,6,5.992
+20,Rhizopogon idahoensis,RP05,4,1,7.217
+20,Rhizopogon idahoensis,RP05,4,2,9.037
+20,Rhizopogon idahoensis,RP05,4,3,7.047
+20,Rhizopogon idahoensis,RP05,4,4,8.811
+20,Rhizopogon idahoensis,RP05,4,5,6.596
+20,Rhizopogon idahoensis,RP05,4,6,8.202
+20,Rhizopogon idahoensis,RP05,5,1,8.76
+20,Rhizopogon idahoensis,RP05,5,2,12.506
+20,Rhizopogon idahoensis,RP05,5,3,8.327
+20,Rhizopogon idahoensis,RP05,5,4,11.896
+20,Rhizopogon idahoensis,RP05,5,5,7.906
+20,Rhizopogon idahoensis,RP05,5,6,10.552
+20,Rhizopogon idahoensis,RP06,1,1,0.829
+20,Rhizopogon idahoensis,RP06,1,2,0.687
+20,Rhizopogon idahoensis,RP06,1,3,1.233
+20,Rhizopogon idahoensis,RP06,1,4,1.003
+20,Rhizopogon idahoensis,RP06,1,5,1.03
+20,Rhizopogon idahoensis,RP06,1,6,0.849
+20,Rhizopogon idahoensis,RP06,3,1,5.583
+20,Rhizopogon idahoensis,RP06,3,2,5.147
+20,Rhizopogon idahoensis,RP06,3,3,4.261
+20,Rhizopogon idahoensis,RP06,3,4,6.964
+20,Rhizopogon idahoensis,RP06,3,5,5.871
+20,Rhizopogon idahoensis,RP06,3,6,5.413
+20,Rhizopogon idahoensis,RP06,4,1,7.387
+20,Rhizopogon idahoensis,RP06,4,2,5.585
+20,Rhizopogon idahoensis,RP06,4,3,4.261
+20,Rhizopogon idahoensis,RP06,4,4,8.621
+20,Rhizopogon idahoensis,RP06,4,5,7.608
+20,Rhizopogon idahoensis,RP06,4,6,7.165
+20,Rhizopogon idahoensis,RP06,5,1,8.835
+20,Rhizopogon idahoensis,RP06,5,2,5.878
+20,Rhizopogon idahoensis,RP06,5,3,4.436
+20,Rhizopogon idahoensis,RP06,5,4,10.223
+20,Rhizopogon idahoensis,RP06,5,5,10.317
+20,Rhizopogon idahoensis,RP06,5,6,8.665
+20,Rhizopogon idahoensis,RP07,1,1,0.924
+20,Rhizopogon idahoensis,RP07,1,2,0.967
+20,Rhizopogon idahoensis,RP07,1,3,0.782
+20,Rhizopogon idahoensis,RP07,1,4,1.17
+20,Rhizopogon idahoensis,RP07,1,5,1.007
+20,Rhizopogon idahoensis,RP07,1,6,1.054
+20,Rhizopogon idahoensis,RP07,3,1,5.327
+20,Rhizopogon idahoensis,RP07,3,2,4.891
+20,Rhizopogon idahoensis,RP07,3,3,5.286
+20,Rhizopogon idahoensis,RP07,3,4,6.835
+20,Rhizopogon idahoensis,RP07,3,5,6.227
+20,Rhizopogon idahoensis,RP07,3,6,6.58
+20,Rhizopogon idahoensis,RP07,4,1,6.685
+20,Rhizopogon idahoensis,RP07,4,2,5.058
+20,Rhizopogon idahoensis,RP07,4,3,6.813
+20,Rhizopogon idahoensis,RP07,4,4,8.729
+20,Rhizopogon idahoensis,RP07,4,5,7.543
+20,Rhizopogon idahoensis,RP07,4,6,9.035
+20,Rhizopogon idahoensis,RP07,5,1,9.205
+20,Rhizopogon idahoensis,RP07,5,2,6.363
+20,Rhizopogon idahoensis,RP07,5,3,8.481
+20,Rhizopogon idahoensis,RP07,5,4,11.019
+20,Rhizopogon idahoensis,RP07,5,5,11.366
+20,Rhizopogon idahoensis,RP07,5,6,13.267
+20,Cenococcum geophilum,CengeV1,1,1,0.786
+20,Cenococcum geophilum,CengeV1,1,2,0.774
+20,Cenococcum geophilum,CengeV1,1,3,0.694
+20,Cenococcum geophilum,CengeV1,1,4,0.721
+20,Cenococcum geophilum,CengeV1,1,5,0.669
+20,Cenococcum geophilum,CengeV1,1,6,0.555
+20,Cenococcum geophilum,CengeV1,3,1,2.088
+20,Cenococcum geophilum,CengeV1,3,2,2.57
+20,Cenococcum geophilum,CengeV1,3,3,2.02
+20,Cenococcum geophilum,CengeV1,3,4,2.649
+20,Cenococcum geophilum,CengeV1,3,5,2.482
+20,Cenococcum geophilum,CengeV1,3,6,1.802
+20,Cenococcum geophilum,CengeV1,4,1,4.396
+20,Cenococcum geophilum,CengeV1,4,2,4.993
+20,Cenococcum geophilum,CengeV1,4,3,4.396
+20,Cenococcum geophilum,CengeV1,4,4,5.008
+20,Cenococcum geophilum,CengeV1,4,5,4.867
+20,Cenococcum geophilum,CengeV1,4,6,4.004
+20,Cenococcum geophilum,CengeV1,5,1,8.403
+20,Cenococcum geophilum,CengeV1,5,2,8.601
+20,Cenococcum geophilum,CengeV1,5,3,8.514
+20,Cenococcum geophilum,CengeV1,5,4,8.545
+20,Cenococcum geophilum,CengeV1,5,5,8.267
+20,Cenococcum geophilum,CengeV1,5,6,8.127
+20,Laccaria bicolor,LacbV1,1,1,1.995
+20,Laccaria bicolor,LacbV1,1,2,1.778
+20,Laccaria bicolor,LacbV1,1,3,1.816
+20,Laccaria bicolor,LacbV1,1,4,1.852
+20,Laccaria bicolor,LacbV1,1,5,1.419
+20,Laccaria bicolor,LacbV1,1,6,2.428
+20,Laccaria bicolor,LacbV1,3,1,12.585
+20,Laccaria bicolor,LacbV1,3,2,10.326
+20,Laccaria bicolor,LacbV1,3,3,11.881
+20,Laccaria bicolor,LacbV1,3,4,11.909
+20,Laccaria bicolor,LacbV1,3,5,11.279
+20,Laccaria bicolor,LacbV1,3,6,11.791
+20,Laccaria bicolor,LacbV1,4,1,15.587
+20,Laccaria bicolor,LacbV1,4,2,12.99
+20,Laccaria bicolor,LacbV1,4,3,14.948
+20,Laccaria bicolor,LacbV1,4,4,14.808
+20,Laccaria bicolor,LacbV1,4,5,14.917
+20,Laccaria bicolor,LacbV1,4,6,15.988
+20,Laccaria bicolor,LacbV1,5,1,18.473
+20,Laccaria bicolor,LacbV1,5,2,15.343
+20,Laccaria bicolor,LacbV1,5,3,17.877
+20,Laccaria bicolor,LacbV1,5,4,17.171
+20,Laccaria bicolor,LacbV1,5,5,17.616
+20,Laccaria bicolor,LacbV1,5,6,18.951
+25,Suillus lakei,Suilla ,1,1,0.649
+25,Suillus lakei,Suilla ,1,2,0.632
+25,Suillus lakei,Suilla ,1,3,0.666
+25,Suillus lakei,Suilla ,1,4,0.536
+25,Suillus lakei,Suilla ,1,5,0.635
+25,Suillus lakei,Suilla ,1,6,0.658
+25,Suillus lakei,Suilla ,3,1,0.816
+25,Suillus lakei,Suilla ,3,2,0.632
+25,Suillus lakei,Suilla ,3,3,0.666
+25,Suillus lakei,Suilla ,3,4,0.536
+25,Suillus lakei,Suilla ,3,5,0.635
+25,Suillus lakei,Suilla ,3,6,0.658
+25,Suillus lakei,Suilla ,4,1,0.816
+25,Suillus lakei,Suilla ,4,2,0.798
+25,Suillus lakei,Suilla ,4,3,0.689
+25,Suillus lakei,Suilla ,4,4,0.614
+25,Suillus lakei,Suilla ,4,5,1.058
+25,Suillus lakei,Suilla ,4,6,0.658
+25,Suillus lakei,Suilla ,5,1,1.962
+25,Suillus lakei,Suilla ,5,2,1.655
+25,Suillus lakei,Suilla ,5,3,1.130
+25,Suillus lakei,Suilla ,5,4,0.816
+25,Suillus lakei,Suilla ,5,5,2.216
+25,Suillus lakei,Suilla ,5,6,1.698
+25,Suillus lakei,Suilla ,6,1,4.150
+25,Suillus lakei,Suilla ,6,2,3.667
+25,Suillus lakei,Suilla ,6,3,3.410
+25,Suillus lakei,Suilla ,6,4,1.772
+25,Suillus lakei,Suilla ,6,5,4.555
+25,Suillus lakei,Suilla ,6,6,3.750
+25,Suillus lakei,SL08,1,1,0.857
+25,Suillus lakei,SL08,1,2,0.967
+25,Suillus lakei,SL08,1,3,0.916
+25,Suillus lakei,SL08,1,4,0.805
+25,Suillus lakei,SL08,1,5,0.96
+25,Suillus lakei,SL08,1,6,0.956
+25,Suillus lakei,SL08,3,1,6.493
+25,Suillus lakei,SL08,3,2,6.467
+25,Suillus lakei,SL08,3,3,6.043
+25,Suillus lakei,SL08,3,4,7.642
+25,Suillus lakei,SL08,3,5,6.136
+25,Suillus lakei,SL08,3,6,7.824
+25,Suillus lakei,SL08,4,1,8.472
+25,Suillus lakei,SL08,4,2,8.133
+25,Suillus lakei,SL08,4,3,7.886
+25,Suillus lakei,SL08,4,4,9.274
+25,Suillus lakei,SL08,4,5,7.856
+25,Suillus lakei,SL08,4,6,9.36
+25,Suillus lakei,SL08,5,1,10.041
+25,Suillus lakei,SL08,5,2,10.544
+25,Suillus lakei,SL08,5,3,9.932
+25,Suillus lakei,SL08,5,4,11.174
+25,Suillus lakei,SL08,5,5,9.088
+25,Suillus lakei,SL08,5,6,10.822
+25,Suillus lakei,SL10,1,1,0.947
+25,Suillus lakei,SL10,1,2,0.885
+25,Suillus lakei,SL10,1,3,0.989
+25,Suillus lakei,SL10,1,4,0.941
+25,Suillus lakei,SL10,1,5,0.916
+25,Suillus lakei,SL10,1,6,0.892
+25,Suillus lakei,SL10,3,1,6.986
+25,Suillus lakei,SL10,3,2,7.082
+25,Suillus lakei,SL10,3,3,7.667
+25,Suillus lakei,SL10,3,4,6.96
+25,Suillus lakei,SL10,3,5,6.402
+25,Suillus lakei,SL10,3,6,5.654
+25,Suillus lakei,SL10,4,1,9.377
+25,Suillus lakei,SL10,4,2,9.296
+25,Suillus lakei,SL10,4,3,10.053
+25,Suillus lakei,SL10,4,4,8.816
+25,Suillus lakei,SL10,4,5,8.467
+25,Suillus lakei,SL10,4,6,7.674
+25,Suillus lakei,SL10,5,1,10.73
+25,Suillus lakei,SL10,5,2,11.305
+25,Suillus lakei,SL10,5,3,12.282
+25,Suillus lakei,SL10,5,4,11.027
+25,Suillus lakei,SL10,5,5,11.076
+25,Suillus lakei,SL10,5,6,10.372
+25,Suillus lakei,SL04 ,1,1,0.774
+25,Suillus lakei,SL04 ,1,2,0.752
+25,Suillus lakei,SL04 ,1,3,0.701
+25,Suillus lakei,SL04 ,1,4,0.839
+25,Suillus lakei,SL04 ,1,5,0.74
+25,Suillus lakei,SL04 ,1,6,0.734
+25,Suillus lakei,SL04 ,3,1,2.825
+25,Suillus lakei,SL04 ,3,2,2.471
+25,Suillus lakei,SL04 ,3,3,2.287
+25,Suillus lakei,SL04 ,3,4,2.88
+25,Suillus lakei,SL04 ,3,5,3.216
+25,Suillus lakei,SL04 ,3,6,3.26
+25,Suillus lakei,SL04 ,4,1,4.806
+25,Suillus lakei,SL04 ,4,2,4.534
+25,Suillus lakei,SL04 ,4,3,4.333
+25,Suillus lakei,SL04 ,4,4,5.017
+25,Suillus lakei,SL04 ,4,5,5.686
+25,Suillus lakei,SL04 ,4,6,5.853
+25,Suillus lakei,SL04 ,5,1,6.909
+25,Suillus lakei,SL04 ,5,2,7.009
+25,Suillus lakei,SL04 ,5,3,7.317
+25,Suillus lakei,SL04 ,5,4,7.536
+25,Suillus lakei,SL04 ,5,5,8.193
+25,Suillus lakei,SL04 ,5,6,7.992
+25,Rhizopogon Evadens,RZ04,1,1,0.752
+25,Rhizopogon Evadens,RZ04,1,2,0.631
+25,Rhizopogon Evadens,RZ04,1,3,0.831
+25,Rhizopogon Evadens,RZ04,1,4,0.728
+25,Rhizopogon Evadens,RZ04,1,5,0.719
+25,Rhizopogon Evadens,RZ04,1,6,0.766
+25,Rhizopogon Evadens,RZ04,3,1,3.637
+25,Rhizopogon Evadens,RZ04,3,2,3.857
+25,Rhizopogon Evadens,RZ04,3,3,4.702
+25,Rhizopogon Evadens,RZ04,3,4,4.32
+25,Rhizopogon Evadens,RZ04,3,5,4.433
+25,Rhizopogon Evadens,RZ04,3,6,4.637
+25,Rhizopogon Evadens,RZ04,4,1,5.374
+25,Rhizopogon Evadens,RZ04,4,2,5.535
+25,Rhizopogon Evadens,RZ04,4,3,6.782
+25,Rhizopogon Evadens,RZ04,4,4,6.031
+25,Rhizopogon Evadens,RZ04,4,5,6.376
+25,Rhizopogon Evadens,RZ04,4,6,6.191
+25,Rhizopogon Evadens,RZ04,5,1,6.693
+25,Rhizopogon Evadens,RZ04,5,2,7.329
+25,Rhizopogon Evadens,RZ04,5,3,8.064
+25,Rhizopogon Evadens,RZ04,5,4,7.545
+25,Rhizopogon Evadens,RZ04,5,5,7.636
+25,Rhizopogon Evadens,RZ04,5,6,7.533
+25,Rhizopogon Evadens,RZ18,1,1,1.119
+25,Rhizopogon Evadens,RZ18,1,2,0.846
+25,Rhizopogon Evadens,RZ18,1,3,1.11
+25,Rhizopogon Evadens,RZ18,1,4,0.982
+25,Rhizopogon Evadens,RZ18,1,5,1.086
+25,Rhizopogon Evadens,RZ18,1,6,1.226
+25,Rhizopogon Evadens,RZ18,3,1,5.244
+25,Rhizopogon Evadens,RZ18,3,2,4.226
+25,Rhizopogon Evadens,RZ18,3,3,4.38
+25,Rhizopogon Evadens,RZ18,3,4,5.464
+25,Rhizopogon Evadens,RZ18,3,5,4.489
+25,Rhizopogon Evadens,RZ18,3,6,6.644
+25,Rhizopogon Evadens,RZ18,4,1,6.219
+25,Rhizopogon Evadens,RZ18,4,2,5.362
+25,Rhizopogon Evadens,RZ18,4,3,5.126
+25,Rhizopogon Evadens,RZ18,4,4,7.19
+25,Rhizopogon Evadens,RZ18,4,5,5.688
+25,Rhizopogon Evadens,RZ18,4,6,4.974
+25,Rhizopogon Evadens,RZ18,5,1,7.157
+25,Rhizopogon Evadens,RZ18,5,2,6.251
+25,Rhizopogon Evadens,RZ18,5,3,5.91
+25,Rhizopogon Evadens,RZ18,5,4,7.958
+25,Rhizopogon Evadens,RZ18,5,5,6.832
+25,Rhizopogon Evadens,RZ18,5,6,6.047
+25,Rhizopogon Evadens,RZ13,1,1,0.634
+25,Rhizopogon Evadens,RZ13,1,2,0.732
+25,Rhizopogon Evadens,RZ13,1,3,0.713
+25,Rhizopogon Evadens,RZ13,1,4,0.666
+25,Rhizopogon Evadens,RZ13,1,5,0.826
+25,Rhizopogon Evadens,RZ13,1,6,0.724
+25,Rhizopogon Evadens,RZ13,3,1,2.922
+25,Rhizopogon Evadens,RZ13,3,2,2.143
+25,Rhizopogon Evadens,RZ13,3,3,2.297
+25,Rhizopogon Evadens,RZ13,3,4,3.194
+25,Rhizopogon Evadens,RZ13,3,5,3.045
+25,Rhizopogon Evadens,RZ13,3,6,3.138
+25,Rhizopogon Evadens,RZ13,4,1,4.592
+25,Rhizopogon Evadens,RZ13,4,2,3.635
+25,Rhizopogon Evadens,RZ13,4,3,3.868
+25,Rhizopogon Evadens,RZ13,4,4,5.118
+25,Rhizopogon Evadens,RZ13,4,5,4.711
+25,Rhizopogon Evadens,RZ13,4,6,4.718
+25,Rhizopogon Evadens,RZ13,5,1,6.311
+25,Rhizopogon Evadens,RZ13,5,2,5.129
+25,Rhizopogon Evadens,RZ13,5,3,5.403
+25,Rhizopogon Evadens,RZ13,5,4,6.377
+25,Rhizopogon Evadens,RZ13,5,5,6.517
+25,Rhizopogon Evadens,RZ13,5,6,6.276
+25,Rhizopogon idahoensis,RP05,1,1,1.359
+25,Rhizopogon idahoensis,RP05,1,2,0.902
+25,Rhizopogon idahoensis,RP05,1,3,1.388
+25,Rhizopogon idahoensis,RP05,1,4,0.897
+25,Rhizopogon idahoensis,RP05,1,5,1.099
+25,Rhizopogon idahoensis,RP05,1,6,0.796
+25,Rhizopogon idahoensis,RP05,3,1,7.84
+25,Rhizopogon idahoensis,RP05,3,2,5.348
+25,Rhizopogon idahoensis,RP05,3,3,7.51
+25,Rhizopogon idahoensis,RP05,3,4,7.746
+25,Rhizopogon idahoensis,RP05,3,5,6.192
+25,Rhizopogon idahoensis,RP05,3,6,7.242
+25,Rhizopogon idahoensis,RP05,4,1,11.171
+25,Rhizopogon idahoensis,RP05,4,2,7.488
+25,Rhizopogon idahoensis,RP05,4,3,10.199
+25,Rhizopogon idahoensis,RP05,4,4,10.426
+25,Rhizopogon idahoensis,RP05,4,5,9.011
+25,Rhizopogon idahoensis,RP05,4,6,9.809
+25,Rhizopogon idahoensis,RP05,5,1,15.541
+25,Rhizopogon idahoensis,RP05,5,2,11.789
+25,Rhizopogon idahoensis,RP05,5,3,13.552
+25,Rhizopogon idahoensis,RP05,5,4,13.041
+25,Rhizopogon idahoensis,RP05,5,5,12.184
+25,Rhizopogon idahoensis,RP05,5,6,12.835
+25,Rhizopogon idahoensis,RP06,1,1,1.174
+25,Rhizopogon idahoensis,RP06,1,2,1.017
+25,Rhizopogon idahoensis,RP06,1,3,1.168
+25,Rhizopogon idahoensis,RP06,1,4,1.372
+25,Rhizopogon idahoensis,RP06,1,5,1.367
+25,Rhizopogon idahoensis,RP06,1,6,1.038
+25,Rhizopogon idahoensis,RP06,3,1,6.444
+25,Rhizopogon idahoensis,RP06,3,2,5.249
+25,Rhizopogon idahoensis,RP06,3,3,6.461
+25,Rhizopogon idahoensis,RP06,3,4,9.18
+25,Rhizopogon idahoensis,RP06,3,5,8.575
+25,Rhizopogon idahoensis,RP06,3,6,6.856
+25,Rhizopogon idahoensis,RP06,4,1,8.639
+25,Rhizopogon idahoensis,RP06,4,2,7.03
+25,Rhizopogon idahoensis,RP06,4,3,8.876
+25,Rhizopogon idahoensis,RP06,4,4,12.725
+25,Rhizopogon idahoensis,RP06,4,5,10.784
+25,Rhizopogon idahoensis,RP06,4,6,9.151
+25,Rhizopogon idahoensis,RP06,5,1,11.936
+25,Rhizopogon idahoensis,RP06,5,2,10.08
+25,Rhizopogon idahoensis,RP06,5,3,12.393
+25,Rhizopogon idahoensis,RP06,5,4,17.312
+25,Rhizopogon idahoensis,RP06,5,5,16.305
+25,Rhizopogon idahoensis,RP06,5,6,11.225
+25,Rhizopogon idahoensis,RP07,1,1,1.255
+25,Rhizopogon idahoensis,RP07,1,2,1.015
+25,Rhizopogon idahoensis,RP07,1,3,1.019
+25,Rhizopogon idahoensis,RP07,1,4,1.165
+25,Rhizopogon idahoensis,RP07,1,5,0.991
+25,Rhizopogon idahoensis,RP07,1,6,1.088
+25,Rhizopogon idahoensis,RP07,3,1,5.914
+25,Rhizopogon idahoensis,RP07,3,2,7.11
+25,Rhizopogon idahoensis,RP07,3,3,5.827
+25,Rhizopogon idahoensis,RP07,3,4,6.947
+25,Rhizopogon idahoensis,RP07,3,5,6.3
+25,Rhizopogon idahoensis,RP07,3,6,8.801
+25,Rhizopogon idahoensis,RP07,4,1,8.033
+25,Rhizopogon idahoensis,RP07,4,2,9.361
+25,Rhizopogon idahoensis,RP07,4,3,7.71
+25,Rhizopogon idahoensis,RP07,4,4,9.04
+25,Rhizopogon idahoensis,RP07,4,5,8.407
+25,Rhizopogon idahoensis,RP07,4,6,11.906
+25,Rhizopogon idahoensis,RP07,5,1,11.308
+25,Rhizopogon idahoensis,RP07,5,2,15.556
+25,Rhizopogon idahoensis,RP07,5,3,11.145
+25,Rhizopogon idahoensis,RP07,5,4,12.083
+25,Rhizopogon idahoensis,RP07,5,5,12.565
+25,Rhizopogon idahoensis,RP07,5,6,16.469
+25,Cenococcum geophilum,CengeV1,1,1,0.706
+25,Cenococcum geophilum,CengeV1,1,2,0.707
+25,Cenococcum geophilum,CengeV1,1,3,0.653
+25,Cenococcum geophilum,CengeV1,1,4,0.762
+25,Cenococcum geophilum,CengeV1,1,5,0.563
+25,Cenococcum geophilum,CengeV1,1,6,0.725
+25,Cenococcum geophilum,CengeV1,3,1,3.986
+25,Cenococcum geophilum,CengeV1,3,2,3.886
+25,Cenococcum geophilum,CengeV1,3,3,3.255
+25,Cenococcum geophilum,CengeV1,3,4,3.432
+25,Cenococcum geophilum,CengeV1,3,5,3.128
+25,Cenococcum geophilum,CengeV1,3,6,4.371
+25,Cenococcum geophilum,CengeV1,4,1,7.403
+25,Cenococcum geophilum,CengeV1,4,2,7.214
+25,Cenococcum geophilum,CengeV1,4,3,6.258
+25,Cenococcum geophilum,CengeV1,4,4,5.973
+25,Cenococcum geophilum,CengeV1,4,5,5.373
+25,Cenococcum geophilum,CengeV1,4,6,7.014
+25,Cenococcum geophilum,CengeV1,5,1,11.984
+25,Cenococcum geophilum,CengeV1,5,2,10.993
+25,Cenococcum geophilum,CengeV1,5,3,10.022
+25,Cenococcum geophilum,CengeV1,5,4,10.179
+25,Cenococcum geophilum,CengeV1,5,5,8.932
+25,Cenococcum geophilum,CengeV1,5,6,10.617
+25,Laccaria bicolor,LacbV1,1,1,1.665
+25,Laccaria bicolor,LacbV1,1,2,2.002
+25,Laccaria bicolor,LacbV1,1,3,1.518
+25,Laccaria bicolor,LacbV1,1,4,1.668
+25,Laccaria bicolor,LacbV1,1,5,1.508
+25,Laccaria bicolor,LacbV1,1,6,1.431
+25,Laccaria bicolor,LacbV1,3,1,8.158
+25,Laccaria bicolor,LacbV1,3,2,7.372
+25,Laccaria bicolor,LacbV1,3,3,8.368
+25,Laccaria bicolor,LacbV1,3,4,7.063
+25,Laccaria bicolor,LacbV1,3,5,7.877
+25,Laccaria bicolor,LacbV1,3,6,7.366
+25,Laccaria bicolor,LacbV1,4,1,12.715
+25,Laccaria bicolor,LacbV1,4,2,10.601
+25,Laccaria bicolor,LacbV1,4,3,12.292
+25,Laccaria bicolor,LacbV1,4,4,10.619
+25,Laccaria bicolor,LacbV1,4,5,11.561
+25,Laccaria bicolor,LacbV1,4,6,12.068
+25,Laccaria bicolor,LacbV1,5,1,15.877
+25,Laccaria bicolor,LacbV1,5,2,13.257
+25,Laccaria bicolor,LacbV1,5,3,15.686
+25,Laccaria bicolor,LacbV1,5,4,14.353
+25,Laccaria bicolor,LacbV1,5,5,13.781
+25,Laccaria bicolor,LacbV1,5,6,15.434
